@@ -1,0 +1,5 @@
+{
+    "exec": "babel-node index.js",
+    "ext": "js,json"
+  }
+  
