@@ -69,7 +69,6 @@
 // }
 
 // export const handler = serverless(app);
-
 const express = require("express");
 const app = express();
 const port = 3001;
